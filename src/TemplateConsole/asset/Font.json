@@ -1,0 +1,9 @@
+{
+  "SdlFonts": [
+      {
+      "Alias": "default",
+      "Font": "Arial.ttf",
+      "Size": 24
+    }
+  ]
+}

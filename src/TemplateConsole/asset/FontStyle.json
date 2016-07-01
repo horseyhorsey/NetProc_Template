@@ -1,0 +1,10 @@
+{
+  "FontStyles": [
+    {
+      "Name": "redYellow",
+      "InteriorColor": "255,0,0",
+      "LineColor": "255, 255, 51",
+      "LineWidth": 3
+    }
+  ]
+}
